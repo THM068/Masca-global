@@ -17,7 +17,6 @@
     <list default="true" id="4c58b212-f0f3-4d77-8ac7-c67b76039436" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
     </list>
     <ignored path="Masca-global.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,7 +84,7 @@
       <file leaf-file-name="home.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/home.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="47" selection-start="470" selection-end="470" vertical-scroll-proportion="-1.7083334">
+            <state line="13" column="47" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -94,7 +93,7 @@
       <file leaf-file-name="main.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="38" selection-start="662" selection-end="662" vertical-scroll-proportion="-5.625">
+            <state line="21" column="38" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -103,25 +102,25 @@
       <file leaf-file-name="contactUs.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/home/contactUs.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="163" selection-start="779" selection-end="779" vertical-scroll-proportion="-5.680851">
+            <state line="25" column="163" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuildConfig.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="BuildConfig.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="41" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0">
+            <state line="33" column="7" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.7206704">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="application.properties" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.25139666">
+            <state line="9" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,7 +129,7 @@
       <file leaf-file-name="_navigation.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/parts/_navigation.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="22" selection-start="9" selection-end="22" vertical-scroll-proportion="-0.0">
+            <state line="0" column="22" selection-start="9" selection-end="22" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -139,7 +138,7 @@
       <file leaf-file-name="home.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-app/css/home.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="14" selection-start="727" selection-end="727" vertical-scroll-proportion="-5.8076925">
+            <state line="58" column="14" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,7 +147,7 @@
       <file leaf-file-name="aboutUs.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/home/aboutUs.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="1212" selection-end="1212" vertical-scroll-proportion="-5.8510637">
+            <state line="29" column="0" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -157,7 +156,7 @@
       <file leaf-file-name="corpResponsibility.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/home/corpResponsibility.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="49" selection-start="1050" selection-end="1050" vertical-scroll-proportion="-5.8510637">
+            <state line="27" column="49" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -166,7 +165,7 @@
       <file leaf-file-name="Config.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="51" selection-start="2645" selection-end="2645" vertical-scroll-proportion="-16.461538">
+            <state line="56" column="51" selection-start="2645" selection-end="2645" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -244,7 +243,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -405,8 +405,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Favorites" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -582,8 +581,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="705" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1280" height="705" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Phing Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="combo" />
@@ -602,7 +601,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Amazon EC2" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2495935" sideWeight="0.67235494" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2495935" sideWeight="0.67235494" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -676,84 +675,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/masca/HomeController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="166" selection-end="166" vertical-scroll-proportion="-8.478261">
-          <folding />
-        </state>
+        <state line="13" column="4" selection-start="166" selection-end="166" vertical-scroll-proportion="-8.478261" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/home/products.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="52" selection-start="0" selection-end="546" vertical-scroll-proportion="-8.531915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/parts/_navigation.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="22" selection-start="9" selection-end="22" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="51" selection-start="2645" selection-end="2645" vertical-scroll-proportion="-16.461538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/css/home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="14" selection-start="727" selection-end="727" vertical-scroll-proportion="-5.8076925">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/home/aboutUs.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1212" selection-end="1212" vertical-scroll-proportion="-5.8510637">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/home/corpResponsibility.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="49" selection-start="1050" selection-end="1050" vertical-scroll-proportion="-5.8510637">
-          <folding />
-        </state>
+        <state line="28" column="52" selection-start="0" selection-end="546" vertical-scroll-proportion="-8.531915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/home.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="47" selection-start="470" selection-end="470" vertical-scroll-proportion="-1.7083334">
+        <state line="13" column="47" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="38" selection-start="662" selection-end="662" vertical-scroll-proportion="-5.625">
+        <state line="21" column="38" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/home/contactUs.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="163" selection-start="779" selection-end="779" vertical-scroll-proportion="-5.680851">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="41" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0">
+        <state line="25" column="163" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.25139666">
+        <state line="9" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/parts/_navigation.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="22" selection-start="9" selection-end="22" vertical-scroll-proportion="-0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="14" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/home/aboutUs.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/home/corpResponsibility.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="49" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="51" selection-start="2645" selection-end="2645" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="7" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.7206704">
           <folding />
         </state>
       </provider>
@@ -765,8 +758,8 @@
         <entry key="Masca-global">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="2120288113" />
-              <option name="pluginDependenciesCrc" value="1378784411" />
+              <option name="buildConfigCrc" value="-1478607020" />
+              <option name="pluginDependenciesCrc" value="66502039" />
               <option name="properties">
                 <map>
                   <entry key="grails.project.class.dir" value="target/classes" />
