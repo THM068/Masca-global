@@ -248,7 +248,7 @@ input{
 
 #footer{
 	width:100%;
-	background: #0E1E22 url('../images/footer_bg.png') no-repeat top center;
+	/*background: #0E1E22 url('../images/footer_bg.png') no-repeat top center;*/
 	height:150px;
 	float:left;
 	margin-top:40px;
@@ -277,8 +277,27 @@ input{
 	}
 
 #right span{
-color:#CCC;
-font-size:13px;
-margin:10px 0 0 0;
-font-family:Arial, Helvetica, sans-serif;
+    color:#CCC;
+    font-size:13px;
+    margin:10px 0 0 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.clearfooter {
+    height: 330px;
+    clear: both;
+}
+
+.main-h3 {
+    color: #464646;
+    float: left;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 30px;
+    padding: 0 5px;
+    margin-left: 8px;
+}
+.page-main-img {
+    margin-left: 13px;
 }

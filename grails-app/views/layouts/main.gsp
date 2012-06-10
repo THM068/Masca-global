@@ -15,6 +15,7 @@
         </div><!--- End Nav --->
 
     <g:layoutBody/>
+        <div class="clearfooter"></div>
         <div id="footer">
 
             <div id="right">

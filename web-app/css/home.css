@@ -161,7 +161,7 @@ li a:hover{
 
 #footer{
 	width:100%;
-	background: #0E1E22 url('../images/footer_bg.png') no-repeat top center;
+	/*background: #0E1E22 url('../images/footer_bg.png') no-repeat top center;*/
 	height:150px;
 	float:left;
 	margin-top:40px;

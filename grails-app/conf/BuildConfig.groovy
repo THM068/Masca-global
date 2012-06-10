@@ -31,6 +31,6 @@ grails.project.dependency.resolution = {
     }
 
     plugins {
-       compile ":cloud-support:1.0.11"
+       //compile ":cloud-support:1.0.11"
     }
 }

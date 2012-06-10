@@ -15,9 +15,12 @@
     <div class="breadcrumb">
         <p><a href="">Home</a> ¬ª About us</p>
     </div> <!--contact-->
+    <p>
+        <img src="${resource(dir:'images', file: 'aboutUs.png')}" class="page-main-img"/>
+    </p>
 
     <div id="body_container">
-        <p class="mainText">Welcome to Masca GLobal Ltd</p>
+        <h3 class="main-h3">Welcome to Masca GLobal Ltd</h3>
         <p class="mainText">
            Masca is a mining support service provider heading the transitional switch in alternative mining solutions through the supply of renewable energy specific products. We encourage the safe exploitation of minerals without environmental prejudice or compromising current need.
         </p>
