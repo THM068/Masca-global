@@ -52,6 +52,8 @@ grails.spring.bean.packages = []
 grails.exceptionresolver.params.exclude = ['password']
 
 // set per-environment serverURL stem for creating absolute links
+grails.app.context='/'
+
 environments {
     production {
         grails.serverURL = "http://www.changeme.com"
