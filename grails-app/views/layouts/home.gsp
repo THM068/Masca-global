@@ -15,11 +15,12 @@
         </div><!--- End Nav --->
     </div>
     <g:layoutBody/>
+        <div class="clearfooter"></div>
         <div id="footer">
 
             <div id="right">
                 <div id="container">
-                    <span>Masca Global Ltd</span>
+                    <span font style="font-size: 13px;">© 2012 Masca Global Ltd, All Rights Reserved</span>
                 </div>
             </div>
         </div> <!--footer-->

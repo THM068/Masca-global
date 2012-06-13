@@ -284,7 +284,7 @@ input{
 }
 
 .clearfooter {
-    height: 330px;
+    height: 150px;
     clear: both;
 }
 
@@ -300,4 +300,5 @@ input{
 }
 .page-main-img {
     margin-left: 13px;
+    margin-top: 10px;
 }
