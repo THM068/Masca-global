@@ -20,8 +20,8 @@
 
             <div id="right">
                 <div id="container">
-                    <span>Masca Global.</span>
-                    <a href="#">Please Click here to download Masca Global TERMS AND CONDITIONS</a>
+                    <span>© 2012 Masca Global Ltd, All Rights Reserved</span>
+                    %{--<a href="#">Please Click here to download Masca Global TERMS AND CONDITIONS</a>--}%
                 </div>
             </div>
         </div> <!--footer-->
