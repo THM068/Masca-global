@@ -4,4 +4,4 @@
 .settings/
 *.xml
 .idea/
-target/*
+target/
