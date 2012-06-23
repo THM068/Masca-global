@@ -3,5 +3,5 @@
 .project
 .settings/
 *.xml
-.idea/*
+.idea/
 target/*

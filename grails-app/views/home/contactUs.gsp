@@ -16,7 +16,7 @@
         <h6>We welcome your feedback and comments.</h6>
     </div> <!--contact-->
 
-    <div id="body_container">
+    <div id="body_container" class="container-border">
         %{--<p class="mainText">--}%
         %{--<!----}%
 %{--Skype 'My status' button--}%
@@ -26,35 +26,52 @@
 %{--<a href="skype:masca global?call"><img src="http://mystatus.skype.com/bigclassic/masca global" style="border: none;" width="182" height="44" alt="My status" /></a>--}%
         %{--</p>--}%
 
-        <div id="contact-details" style="float: left">
+        <div id="contact-details" class="enquiry" >
 
-                <p>Enquiries:enquiries@macsa.com</p>
+                <p class="medium-line-height"><strong>Enquiries:</strong> <a href="mailto:enquiries@macsa.com">enquiries@macsa.com</a></p>
 
-                <p>Sales :sales@macsa.com</p>
+                <p class="medium-line-height"><strong>Sales:</strong> <a href="mailto:sales@macsa.com">sales@macsa.com</a></p>
 
-                <p>Service :service@macsa.com</p>
+                <p class="medium-line-height"><strong>Service:</strong> <a href="mailto:service@macsa.com">service@macsa.com</a></p>
 
-                <p>Social Responsibility : csr@masca.com</p>
+                <p class="medium-line-height"><strong>Social Responsibility:</strong> <a href="mailto:csr@masca.com">csr@masca.com</a></p>
 
-                <p>Skype: masca global</p>
+                <p class="medium-line-height"><strong>Skype:</strong> <a href="#">masca global</a></p>
 
-                <p>
-                    Address:Macsa Global Ltd,<br>
-                    6 Sissinghurst Close,Rugby,,<br>
-                    Warwickshire,CV227ED.
+                <p id="address">
+                    <p class="small-line-height">Macsa Global Ltd</p>
+                    <p class="small-line-height">6 Sissinghurst Close</p>
+                    <p class="small-line-height">Rugby</p>
+                    <p class="small-line-height">CV227ED</p>
+                    <p class="small-line-height">Warwickshire</p>
                 </p>
 
         </div>
-        <div id="contact-form" style="float: left">
+        <div id="contact-fields" class="contact-form enquiry-form">
+            <p>We welcome any comments and enquiries.</p>
+            <br>
             <form action="">
-                <label>Name</label>
-                <input name="name">
-                <label>Email</label>
-                <input name="email">
-                <label>Subject</label>
-                <input name="subject">
-                <label>Message </label>
-                <textarea name="message"></textarea>
+                <div class="row">
+                    <label>Name</label>
+                    <input name="name">
+                </div>
+                <div class="row">
+                    <label>Email</label>
+                    <input name="email">
+                </div>
+                <div class="row">
+                    <label>Subject</label>
+                    <input name="subject">
+                </div>
+                <div class="row">
+                    <label>Message </label>
+                    <textarea name="message" class="message"></textarea>
+                </div>
+                <div class="row">
+                    <input id="contactBtn"type="submit" value="Submit">
+                </div>
+
+
             </form>
         </div>
     </div> <!--body_container-->
