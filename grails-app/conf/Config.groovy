@@ -52,7 +52,7 @@ grails.spring.bean.packages = []
 grails.exceptionresolver.params.exclude = ['password']
 
 // set per-environment serverURL stem for creating absolute links
-grails.app.context='/masca-global'
+grails.app.context='/'
 
 environments {
     production {
