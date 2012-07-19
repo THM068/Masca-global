@@ -5,7 +5,8 @@
         <link rel="stylesheet" href="${resource(dir:'css',file: 'main.css')}" />
         <link rel="shortcut icon" href="${resource(dir:'images',file:'favicon.ico')}" type="image/x-icon" />
         <g:layoutHead />
-        <g:javascript library="application" />
+        <r:use modules='main-app'/>
+        <r:layoutResources />
     </head>
     <body>
 
@@ -25,6 +26,6 @@
                 </div>
             </div>
         </div> <!--footer-->
-
+        <r:layoutResources />
     </body>
 </html>

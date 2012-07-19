@@ -33,5 +33,9 @@ grails.project.dependency.resolution = {
 
     plugins {
        //compile ":cloud-support:1.0.11"
+       compile ":jquery-ui:1.8.15"
+
+       runtime ":resources:1.1.6"
+       runtime ":jquery:1.7.1"
     }
 }
